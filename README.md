@@ -1,1 +1,22 @@
+```python
+```
 # Unit-18-blockchain-homework
+## Case Study on Intellabridge Tech
+Intellabridge Technology Corporation is a publicly-traded company headquartered in Vancouver, Canada, and listed on the Canadian Securities Exchange (INTL), Frankfurt Exchange (98AA.F) and the OTCQB (CRBTF). They are a blockchain company dedicated to bringing decentralized financial solutions to emerging markets by leveraging blockchain protocols that support open financial infrastructure development and stable programmable savings and payments. 
+Their mission is to make it easy to save, spend, and send universally with decentralized cash. Their goal is to go global with a product “The Kash App”, that provides decentralized and seamless banking services to developed markets with low savings rates eg Europe and North America, and emerging markets with high inflation rates such as Turkey and India
+
+## Why they Matter
+The main aim of DeFi is to create a financial service ecosystem that’s open-source, permissionless, transparent and without any central authority. Within this ecosystem, the users have full control over their assets and they can interact with the ecosystem through decentralized applications. This is in stark contrast to traditional financial institutions managed by a centralized governing body which are notoriously opaque.
+Kash is their hybrid digital bank product aiming to provide customers with new financial opportunities powered by blockchain. It provides customers with financial solutions that include checking, savings, and investments as its core modules, and advanced technologies that enable real-time transactions, improved accessibility, and lower fees compared to traditional financial products. Today the Kash app has 35%+ sign up rate, 10,000 new accounts, and an organic reach of 480,000 active users. 
+
+## Why this may be interesting 
+The key focus for many traditional financial services organizations in developed markets is user experience. Customers have high expectations, and innovative fintech businesses are often better equipped to meet and exceed these expectations as they are agile, aren’t constrained by legacy infrastructure, and they prioritize the design of user interfaces that are easy to use. 
+In addition to the above, low interest rates in developed markets is hurting savers, reducing the incentive to save, and build wealth to be prepared for financial emergencies. This has been the major reason for increased pace of adoption and deployment of fintech solutions in Europe and North America.
+On the other hand, currency devaluation, capital restrictions and high inflation rates prevalent in emerging markets have made crypto assets a haven for those looking to protect their finances. It also allows for ease of doing business across the world with no human intervention. High Transaction Costs according to the World Bank sending remittances costs an average of 6.51% of the amount sent. 
+Also, the benefits of DeFi become apparent when considering just how many adults in the world remain unbanked: 1.7 billion according to the World Bank.  Without access to a robust banking system, reliable currency, a legitimate titling system for property, under-developed infrastructure, inability to easily send remittances internationally, etc., the ideas and economic contributions of these billions of people remains constrained. DeFi offers an opportunity to go beyond this state of affairs and put financial tools in the hands of anyone with a smartphone
+
+## Regulatory concerns and compliance
+In Canada, regulators are still assessing the viability of open banking. According to the US SEC, there is not enough investor protection in crypto finance, issuance, trading, or lending. They further describe the concept as  more like the Wild West or the old world of “buyer beware” that existed before the securities laws were enacted, and has undertaken many enforcement actions against players in the crypto sector, more than half involving the surge of Initial Coin Offerings. The overwhelming concern is that crypto is being used to facilitate terrorism and money laundering, due at least in part to the anonymous nature of the players. This claim has been repeatedly countered by the ability to track cypto “wallets” owners. I believe the challenge lies in that the field is rapidly evolving so regulating the space can be a real challenge.
+
+# References
+>[https://www.intellabridge.com/]()
