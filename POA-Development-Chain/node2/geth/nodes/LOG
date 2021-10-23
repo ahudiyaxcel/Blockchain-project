@@ -1,0 +1,32 @@
+=============== Oct 22, 2021 (CDT) ===============
+22:17:50.042902 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:17:50.046891 db@open opening
+22:17:50.046891 version@stat F·[] S·0B[] Sc·[]
+22:17:50.048885 db@janitor F·2 G·0
+22:17:50.048885 db@open done T·1.994ms
+22:40:00.775315 db@close closing
+22:40:00.776312 db@close done T·0s
+=============== Oct 22, 2021 (CDT) ===============
+22:45:36.599520 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:45:36.599520 version@stat F·[] S·0B[] Sc·[]
+22:45:36.599520 db@open opening
+22:45:36.599520 journal@recovery F·1
+22:45:36.599520 journal@recovery recovering @1
+22:45:36.602512 memdb@flush created L0@2 N·19 S·392B "loc..seq,v2":"version,v1"
+22:45:36.602512 version@stat F·[1] S·392B[392B] Sc·[0.25]
+22:45:36.609495 db@janitor F·3 G·0
+22:45:36.609495 db@open done T·9.9752ms
+22:49:59.959232 db@close closing
+22:49:59.959232 db@close done T·0s
+=============== Oct 22, 2021 (CDT) ===============
+22:51:34.437533 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:51:34.438531 version@stat F·[1] S·392B[392B] Sc·[0.25]
+22:51:34.438531 db@open opening
+22:51:34.438531 journal@recovery F·1
+22:51:34.438531 journal@recovery recovering @3
+22:51:34.440525 memdb@flush created L0@5 N·3 S·239B "loc..seq,v21":"n:I..ail,v22"
+22:51:34.441523 version@stat F·[2] S·631B[631B] Sc·[0.50]
+22:51:34.447506 db@janitor F·4 G·0
+22:51:34.447506 db@open done T·8.9758ms
+22:58:48.917308 db@close closing
+22:58:48.917308 db@close done T·0s
